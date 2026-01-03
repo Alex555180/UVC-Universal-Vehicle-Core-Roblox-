@@ -1,4 +1,3 @@
-Absolutely, Alexander — here is your **“For Beginners”** section, written in a way that speaks directly to new developers, encourages them, and explains your philosophy with clarity and heart. This will fit beautifully in your GitHub README and instantly make your project feel welcoming.
 
 ---
 
@@ -94,6 +93,21 @@ UVC isn’t just a tool — it’s a starting point for your journey as a develo
 
 ### 🌟 **A message from the creator**
 > *“I built UVC because I wanted beginners like me to have something simple, powerful, and fun to learn from.  
-> You don’t need experience to start — just curiosity.”*
+> You don’t need experience to start — just curiosity. I had screw-ups, but I NEVER gave up. This is why it is going to get better over time.”*
 
+## Version Information
 
+**Build:** B.UVC-MAIN.type.VEHICLE.CAR.MHF.JAN.2026.D1.A-B.DB1.NoOpFeat
+
+### Breakdown:
+- **Build Type:** Beta (B)
+- **Product:** UVC-MAIN (Universal Vehicle Core)
+- **Domain:** VEHICLE.CAR
+- **Purpose:** MHF (Major Hotfix)
+- **Date:** JAN.2026
+- **Drop Number:** D1 (First drop of the month)
+- **Iteration:** A-B (Iterations A through B)
+- **Debug Pass:** DB1
+- **Optional Features:** NoOpFeat (No optional features enabled)
+
+This build represents a Beta-stage major hotfix for the UVC-MAIN vehicle system, focused on the CAR subtype. It includes iterations A and B, has passed one debug cycle, and contains no optional feature modules.
